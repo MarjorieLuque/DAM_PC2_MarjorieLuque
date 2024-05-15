@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">DAM_MarjorieLuque</string>
+    <string name="radiobutton_IngeSistemas">Ingenieria de Sistemas</string>
+    <string name="radiobutton_IngeAmbiental">Ingenieria Ambiental</string>
+    <string name="radiobutton_IngeMecanica">Ingenieria Mécanica</string>
+    <string name="radiobutton_Administracion">Administración</string>
 </resources>
