@@ -4,4 +4,14 @@
     <string name="radiobutton_IngeAmbiental">Ingenieria Ambiental</string>
     <string name="radiobutton_IngeMecanica">Ingenieria Mécanica</string>
     <string name="radiobutton_Administracion">Administración</string>
+    <string name="CheckBox_radio">Radio</string>
+    <string name="CheckBox_internet">Internet</string>
+    <string name="CheckBox_Amigo">Amigo</string>
+    <string name="CheckBox_Publicidad">Publicidad</string>
+    <string name="button_enviar">ENVIAR</string>
+    <string name="textview_nombre">Nombres y Apellidos</string>
+    <string name="textview_Correo">"Correo "</string>
+    <string name="textview_FechaNacimiento">Fecha de Nacimiento</string>
+    <string name="textview_contraseña">Contraseña</string>
+    <string name="textview_carrera">Carrera</string>
 </resources>
